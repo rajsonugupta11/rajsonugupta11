@@ -61,6 +61,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsonugupta11&layout=compact&theme=radical" width="47%" />
 </p>
 
+
+
+
+
+🐍 GitHub Contribution Snake
+<p align="center"> <img src="https://github.com/rajsonugupta11/rajsonugupta11/blob/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
+🔁 Enable GitHub Actions to generate this file using Platane/snk
+
+🎵 Now Playing (Spotify)
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31c6ez7myq5s2utbz7ap6vqt7drm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" /> </p>
+Replace uid=YOUR_SPOTIFY_USER_ID with your actual Spotify ID using spotify-github-profile
+
+📌 Pinned Repositories
+<p align="center"> <a href="https://github.com/rajsonugupta11/video-downloader"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajsonugupta11&repo=video-downloader&theme=radical" /> </a> <a href="https://github.com/rajsonugupta11/resume-generator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajsonugupta11&repo=resume-generator&theme=radical" /> </a> </p>
+📬 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/sonu-kumar-836688279/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/rajsonugupta11" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="mailto:rajsonugupta9@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+💡 Quote I Live By
+<p align="center"><i>"Stay curious. Stay building. Stay kind."</i></p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=100&section=footer"/> </p> ```
 ---
 
 ## ⌛ WakaTime Coding Stats
