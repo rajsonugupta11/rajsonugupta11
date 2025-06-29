@@ -123,3 +123,73 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e5ef7&height=100&section=footer"/>
 </p>
+
+
+
+
+
+# Hi 👋, I'm Sonu Gupta
+### Passionate Python Developer | Web App Builder | Automation Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajsonugupta11&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #0e75b6; color: white; padding: 20px; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15); width: 240px; margin: 20px auto;">
+  <!-- Profile Picture Section -->
+  <img src="https://avatars.githubusercontent.com/u/38722719?v=4" alt="Sonu Gupta" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; border: 4px solid #ffffff; transition: transform 0.3s ease;"/>
+  <h3 style="margin-top: 10px; font-size: 1.2em; font-weight: bold;">Sonu Gupta</h3>
+  <p style="font-size: 0.9em; text-align: center;">Python Developer | Web App Builder | Automation Enthusiast</p>
+</div>
+
+---
+
+<!-- Additional Info Section: Pronouns, Company, Location -->
+<div style="display: flex; flex-direction: column; align-items: center; background-color: #f9f9f9; color: #333; padding: 20px; margin: 10px auto; border-radius: 12px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); width: 240px;">
+  <h4 style="font-size: 1.1em; color: #0e75b6;">Additional Info</h4>
+  
+  <div style="margin-top: 10px; font-size: 0.9em; text-align: center;">
+    <p><strong>Pronouns:</strong> He/Him</p>
+    <p><strong>Company:</strong> XYZ Tech</p>
+    <p><strong>Location:</strong> India (UTC +5:30)</p>
+  </div>
+</div>
+
+---
+
+<!-- Social Links Section -->
+<div style="display: flex; justify-content: center; margin-top: 15px;">
+  <a href="https://www.linkedin.com/in/sonu-kumar-836688279/" target="_blank" style="background-color: #0077b5; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none; font-size: 0.9em; margin: 0 5px; transition: background-color 0.3s ease;">LinkedIn</a>
+  <a href="https://instagram.com/rajsonugupta11" target="_blank" style="background-color: #f44040; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none; font-size: 0.9em; margin: 0 5px; transition: background-color 0.3s ease;">Instagram</a>
+  <a href="https://twitter.com/rajsonugupta11" target="_blank" style="background-color: #1da1f2; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none; font-size: 0.9em; margin: 0 5px; transition: background-color 0.3s ease;">Twitter</a>
+</div>
+
+---
+
+### 🔧 Tech Stack
+
+- 💻 Languages: `Python`, `HTML`, `CSS`, `JavaScript`
+- 🌐 Frameworks: `Flask`, `Bootstrap`
+- 🛠️ Tools: `VS Code`, `Git`, `GitHub`, `Render`
+
+---
+
+### 🚀 Projects
+
+- 🎬 [Ultra Downloader Pro](https://github.com/rajsonugupta11/video-downloader)
+- 📝 [Resume Generator](https://github.com/rajsonugupta11/resume-generator)
+- 🤖 [Chatbot Backend](https://github.com/rajsonugupta11/chatbot-backend)
+
+---
+
+### 📫 Contact Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sonu-kumar-836688279/)
+- 📷 [Instagram](https://instagram.com/rajsonugupta11)
+- 📧 Mail: **rajsonugupta9@gmail.com**
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajsonugupta11&show_icons=true&count_private=true&hide=prs&theme=radical)
