@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">🎓 CS Graduate | 💻 Python & Frontend Dev | 🧠 Generative AI Enthusiast | 💼 Open to Work</h3>
+<h3 align="center">🎓 B.Tech CSE Graduate | 💻 Python & Frontend Developer | 🧠 Generative AI Enthusiast | 💼 Open to Work</h3>
 
 <!-- Typing Effect -->
 
