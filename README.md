@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CS Graduate (AI Specialization)  
+- 🎓 B.Tech CSE Graduate (AI Specialization)  
 - 💼 Actively looking for full-time roles in **Web, Python & AI**  
 - 🧠 Love building automation tools & learning new tech  
 - 💬 Ask me about Web Dev, Python, AI tools, Prompt Engineering  
