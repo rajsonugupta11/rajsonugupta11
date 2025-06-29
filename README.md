@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Gupta</h1>
-<h3 align="center">Python Developer | Web App Builder | Generative AI Enthusiast | Open to Opportunities</h3>
+<h3 align="center">Passionate Python Developer | Web App Builder | Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajsonugupta11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,10 +9,10 @@
 
 ## 🧑‍💼 About Me
 
-🎓 Computer Science Engineering Graduate (AI Specialization) – 2021–2025  
-💡 Passionate Python Developer focused on building automation tools, AI-powered apps, and scalable web solutions  
-📌 Areas of Interest: Full-Stack Development, Generative AI, Cybersecurity  
-🌱 Currently seeking full-time opportunities or freelance roles in Web Development or AI/ML domains
+🎓 B.Tech CSE (AI Specialization) student | 🛠️ Python Developer  
+💡 Learning Generative AI, Web Development, Cybersecurity  
+📌 Interested in Full-Stack Development, DevOps, and Automation  
+🌱 Always improving through open-source collaboration and real-world projects
 
 ---
 
@@ -32,34 +32,14 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 [Ultra Downloader Pro](https://github.com/rajsonugupta11/video-downloader)  
-> A powerful video downloading tool with cookie support. Built using Flask + yt-dlp.
+### 🎬 [Ultra Downloader Pro](https://github.com/rajsonugupta11/video-downloader)
+> A powerful video downloading tool with cookie support. Flask + yt-dlp.
 
-### 📝 [Resume Generator](https://github.com/rajsonugupta11/resume-generator)  
-> Build stylish resumes using ReactJS and dynamic form inputs.
+### 📝 [Resume Generator](https://github.com/rajsonugupta11/resume-generator)
+> Build stylish resumes using ReactJS.
 
-### 🤖 [Chatbot Backend](https://github.com/rajsonugupta11/chatbot-backend)  
-> Python backend for chatbot using NLP and Flask APIs.
-
----
-
-## 🏅 Certifications
-
-- ✅ Python Programming – Udemy  
-- 🛡️ Cyber Warfare Labs – Practical Cybersecurity  
-- 🎓 Generative AI Essentials – Microsoft  
-- 🧩 SQL Injection & DB Security – EC-Council
-
----
-
-## 💼 Hire Me
-
-🔍 I'm open to:
-- Full-time roles (Python / Frontend / Backend)
-- Remote freelance work or contracts
-- AI, automation, or Open Source projects
-
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/sonu-kumar-836688279/) or email me at [rajsonugupta9@gmail.com](mailto:rajsonugupta9@gmail.com)
+### 🤖 [Chatbot Backend](https://github.com/rajsonugupta11/chatbot-backend)
+> Python backend for chatbot using NLP and Flask.
 
 ---
 
@@ -85,6 +65,23 @@
 
 ---
 
+## 💼 Hire Me
+
+🔍 I’m open to:
+- Internship or remote work (Frontend / Python)
+- Open Source contributions
+- Collaborations on Generative AI or Flask-based projects
+
+💬 Message me on [LinkedIn](https://www.linkedin.com/in/sonu-kumar-836688279/) for opportunities or collaboration.
+
+---
+
+## 🧠 Quote
+
+<p align="center"><i>"Code with logic, design with empathy, build with purpose."</i></p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -105,6 +102,4 @@
 
 ---
 
-<p align="center"><i>“Code with logic, design with empathy, build with purpose.”</i></p>
-
-<p align="center">Made with ❤️ by Sonu Gupta</p>
+<p align="center">Made with ❤️ by Sonu Gupta | Last updated: {{today}}</p>
